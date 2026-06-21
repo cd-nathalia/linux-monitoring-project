@@ -1,0 +1,12 @@
+Fri Jun 19 20:44:17 -03 2026: Uso de Mémoria RAM:
+Total: 15Gi, Usada: 647Mi, Livre: 14Gi
+Fri Jun 19 20:49:21 -03 2026: Uso de Mémoria RAM:
+Total: 15Gi, Usada: 649Mi, Livre: 14Gi
+Uso da CPU: 0.6%
+Fri Jun 19 20:54:27 -03 2026: Uso de Mémoria RAM:
+Total: 15Gi, Usada: 654Mi, Livre: 14Gi
+Uso da CPU: 0%
+Operações de leitura e escrita em disco:
+Device tps kB_read/s kB_wrtn/s
+sdb 0.02 1.11 0.00
+sdc 0.02 0.31 0.00

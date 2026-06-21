@@ -1,0 +1,15 @@
+2026-06-13T15:59:16.302833-03:00 royalpython unix_chkpwd[619]: check failed for
+2026-06-13T15:59:16.303071-03:00 royalpython sudo: authentication failure; logname=
+2026-06-13T15:59:28.851611-03:00 royalpython unix_chkpwd[622]: check failed for
+2026-06-13T17:58:32.284186-03:00 royalpython unix_chkpwd[1467]: check failed for
+2026-06-13T17:58:32.284593-03:00 royalpython sudo: authentication failure; logname=
+2026-06-13T17:58:40.117343-03:00 royalpython unix_chkpwd[1468]: check failed for
+2026-06-13T17:58:50.017222-03:00 royalpython unix_chkpwd[1471]: check failed for
+2026-06-13T17:59:33.575575-03:00 royalpython unix_chkpwd[1490]: check failed for
+2026-06-13T17:59:33.575973-03:00 royalpython sudo: authentication failure; logname=
+2026-06-13T17:59:54.887649-03:00 royalpython unix_chkpwd[1493]: check failed for
+2026-06-14T12:40:18.978693-03:00 royalpython unix_chkpwd[505]: check failed for
+2026-06-14T12:40:18.978868-03:00 royalpython sudo: authentication failure; logname=
+2026-06-14T12:42:11.568968-03:00 royalpython unix_chkpwd[522]: check failed for
+2026-06-14T12:47:39.128646-03:00 royalpython sudo: Failed to check
+2026-06-15T21:24:50.927827-03:00 royalpython su[3432]: Failed to check
